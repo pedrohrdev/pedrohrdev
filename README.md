@@ -18,9 +18,8 @@ Always learning — aiming to become a high-level developer
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pedrohrdev&show_icons=true&theme=dark)
-
-![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark)
+#### GitHub Stats:
+![](https://streak-stats.demolab.com?user=pedrohrdev&theme=dark)]
 
 ---
 
