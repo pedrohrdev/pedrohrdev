@@ -1,16 +1,30 @@
-## Hi there 👋
+# Pedro Rossi
 
-<!--
-**pedrohrdev/pedrohrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps, APIs and automation tools  
+Always learning — aiming to become a high-level developer  
 
-Here are some ideas to get you started:
+"What we know is a drop, what we don't know is an ocean"  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+
+![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark)
+
+---
+
+## 🌐 Socials
+
+- LinkedIn: ...
+- Email: ...
