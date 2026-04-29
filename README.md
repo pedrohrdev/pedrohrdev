@@ -3,7 +3,7 @@
 I build web apps, APIs and automation tools  
 Always learning — aiming to become a high-level developer  
 
-"What we know is a drop, what we don't know is an ocean"  
+"If you knew you were 30 failures away from your goal, how fast would you fail?"  
 
 ---
 
