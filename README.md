@@ -23,6 +23,8 @@ Always learning — aiming to become a high-level developer
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohrdev)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌐 Socials
 
 - LinkedIn: ...
