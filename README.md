@@ -24,7 +24,7 @@ Always learning — 1% better every day.
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials:
 
 - LinkedIn: https://www.linkedin.com/in/pedro-rossi-a2b068347/
 - Email: pedrohrdev@gmail.com
