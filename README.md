@@ -1,6 +1,6 @@
 # Pedro Rossi
 
-I build web sistems, API's and automation tools  
+I build web sistems and API's 
 Always learning — 1% better every day.
 
 "If you knew you were 30 failures away from your goal, how fast would you fail?"  
