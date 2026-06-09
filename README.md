@@ -20,6 +20,8 @@ Always learning — 1% better every day.
 ## 📊 GitHub Stats
 
 #### Me in GitHub:
+![Profile Views](https://komarev.com/ghpvc/?username=pedrohrdev)
+
 ![](https://streak-stats.demolab.com?user=pedrohrdev&theme=dark)]
 
 ---
