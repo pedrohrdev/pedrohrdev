@@ -36,14 +36,6 @@ Always learning — 1% better every day.
 
 ---
 
-## 📊 GitHub Stats
-
-#### Me in GitHub:
-
-![](https://streak-stats.demolab.com?user=pedrohrdev&theme=dark)]
-
----
-
 ## 🌐 Socials:
 
 - LinkedIn: https://www.linkedin.com/in/pedro-rossi-a2b068347/
