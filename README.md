@@ -42,3 +42,4 @@ Always learning — 1% better every day.
 
 - LinkedIn: https://www.linkedin.com/in/pedro-rossi-a2b068347/
 - Email: pedrohrdev@gmail.com
+- Instagram: https://www.instagram.com/pedrorossiz/
