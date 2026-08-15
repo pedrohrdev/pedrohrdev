@@ -35,8 +35,6 @@ Always learning — 1% better every day.
 
 ---
 
-[![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=pedrohrdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🌐 Socials:
 
 - LinkedIn: https://www.linkedin.com/in/pedro-rossi-a2b068347/
