@@ -9,7 +9,7 @@ Always learning — 1% better every day.
 
 ## 🛠️Technologies and Tools:
 
-## Back-End Development Focus
+## Back-End Development Focus:
 
 ### ⚙️ Languages ​​& Frameworks:
 
