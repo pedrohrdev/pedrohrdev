@@ -1,6 +1,6 @@
 # Pedro Rossi
 
-I build web fullstack sistems, focused on back-end 
+I build web fullstack sistems, focused on back-end, solving REAL problems
 Always learning — 1% better every day.
 
 "If you knew you were 30 failures away from your goal, how fast would you fail?"  
