@@ -1,6 +1,6 @@
 # Pedro Rossi
 
-I build full-stack web systems focused on back-end architecture, APIs, automation and solving real-world problems.
+I build full-stack web systems focused on back-end development, APIs, automation and solving real-world problems.
 
 Always learning. 1% better every day.
 
