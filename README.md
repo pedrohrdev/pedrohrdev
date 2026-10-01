@@ -4,7 +4,7 @@ I build full-stack web systems focused on back-end development, APIs, automation
 
 Always learning. 1% better every day.
 
-> "If you knew you were 30 failures away from your goal, how fast would you fail?"
+> 'If you knew you were 30 failures away from your goal, how fast would you fail?'
 
 ---
 
