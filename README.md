@@ -84,3 +84,7 @@ Secure communication application focused on real-time messaging and authenticati
 - [LinkedIn](https://www.linkedin.com/in/pedro-rossi-a2b068347/)
 - [Instagram](https://www.instagram.com/pedrorossiz/)
 - 📧 pedrohrdev@gmail.com
+
+- <div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+</div>
